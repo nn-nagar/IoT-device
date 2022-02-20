@@ -90,6 +90,8 @@ perspective. we are using datetime format with timezone.
 }
 # Note: this format not applied while querying datetime range in django
 ```
+#### JWT Authentication
+![Screenshot (26)](https://user-images.githubusercontent.com/53946839/154868700-bd39c33e-c022-49b4-9c96-b57e036c0e54.png)
 
 ## API Resource and utilization
 ### API Resource

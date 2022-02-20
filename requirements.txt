@@ -1,0 +1,10 @@
+Django==2.2.5
+django-crispy-forms==1.7.2
+django-filter==2.2.0
+django-unixtimestampfield==0.3.9
+django-import-export==2.5.0
+djangorestframework==3.10.3
+djangorestframework_simplejwt
+pytz==2019.2
+sqlparse==0.3.0
+aiohttp[speedups]
